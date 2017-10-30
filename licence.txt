@@ -4,3 +4,5 @@ git log
 git reflog
 git reset --hard 
 git status
+git checkout
+git diff
